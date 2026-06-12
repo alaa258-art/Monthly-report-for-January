@@ -3911,7 +3911,7 @@
                 "attending_books": "interested  مهتم"
             },
             "science": {
-                "formative_exam": "90",
+                "formative_exam": "95",
                 "academic_level": "A",
                 "participation": "نشط  Active",
                 "doing_tasks": "في الموعد  on time",
@@ -4058,7 +4058,7 @@
                 "attending_books": "interested  مهتم"
             },
             "science": {
-                "formative_exam": "80",
+                "formative_exam": "90",
                 "academic_level": "A",
                 "participation": "نشط  Active",
                 "doing_tasks": "في الموعد  on time",
@@ -4352,7 +4352,7 @@
                 "attending_books": "interested  مهتم"
             },
             "science": {
-                "formative_exam": "70",
+                "formative_exam": "75",
                 "academic_level": "C",
                 "participation": "نشط  Active",
                 "doing_tasks": "في الموعد  on time",
@@ -4548,7 +4548,7 @@
                 "attending_books": "interested  مهتم"
             },
             "science": {
-                "formative_exam": "50",
+                "formative_exam": "55",
                 "academic_level": "D",
                 "participation": "نشط جزئيًا  Partially",
                 "doing_tasks": "في الموعد  on time",
@@ -4842,7 +4842,7 @@
                 "attending_books": "interested  مهتم"
             },
             "science": {
-                "formative_exam": "48",
+                "formative_exam": "50",
                 "academic_level": "D",
                 "participation": "نشط جزئيًا  Partially",
                 "doing_tasks": "في الموعد  on time",
@@ -6186,7 +6186,7 @@
                 "attending_books": "interested  مهتم"
             },
             "arabic_language": {
-                "formative_exam": "95",
+                "formative_exam": "97",
                 "academic_level": "A",
                 "participation": "نشط  Active",
                 "doing_tasks": "في الموعد  on time",
@@ -6235,7 +6235,7 @@
                 "attending_books": "Partially interested  مهتم جزئيًّا"
             },
             "arabic_language": {
-                "formative_exam": "30",
+                "formative_exam": "40",
                 "academic_level": "F",
                 "participation": "غير نشط  Inactive",
                 "doing_tasks": "لا ينجز Incomplete",
@@ -6676,7 +6676,7 @@
                 "attending_books": "interested  مهتم"
             },
             "arabic_language": {
-                "formative_exam": "80",
+                "formative_exam": "86",
                 "academic_level": "B",
                 "participation": "نشط جزئيًا  Partially",
                 "doing_tasks": "متأخرًا late",
@@ -6774,7 +6774,7 @@
                 "attending_books": "Partially interested  مهتم جزئيًّا"
             },
             "arabic_language": {
-                "formative_exam": "30",
+                "formative_exam": "40",
                 "academic_level": "F",
                 "participation": "غير نشط  Inactive",
                 "doing_tasks": "في الموعد  on time",
@@ -6823,8 +6823,8 @@
                 "attending_books": "interested  مهتم"
             },
             "arabic_language": {
-                "formative_exam": "85",
-                "academic_level": "B",
+                "formative_exam": "90",
+                "academic_level": "A",
                 "participation": "نشط  Active",
                 "doing_tasks": "في الموعد  on time",
                 "attending_books": "interested  مهتم"
@@ -7411,8 +7411,8 @@
                 "attending_books": "Partially interested  مهتم جزئيًّا"
             },
             "arabic_language": {
-                "formative_exam": "60",
-                "academic_level": "D",
+                "formative_exam": "45",
+                "academic_level": "F",
                 "participation": "غير نشط  Inactive",
                 "doing_tasks": "متأخرًا late",
                 "attending_books": "Partially interested  مهتم جزئيًّا"
@@ -7803,7 +7803,7 @@
                 "attending_books": "interested  مهتم"
             },
             "arabic_language": {
-                "formative_exam": "60",
+                "formative_exam": "67",
                 "academic_level": "D",
                 "participation": "غير نشط  Inactive",
                 "doing_tasks": "في الموعد  on time",
@@ -8048,8 +8048,8 @@
                 "attending_books": "غير مهتم  Not interested"
             },
             "arabic_language": {
-                "formative_exam": "40",
-                "academic_level": "F",
+                "formative_exam": "60",
+                "academic_level": "D",
                 "participation": "غير نشط  Inactive",
                 "doing_tasks": "متأخرًا late",
                 "attending_books": "غير مهتم  Not interested"
@@ -8440,7 +8440,7 @@
                 "attending_books": "Partially interested  مهتم جزئيًّا"
             },
             "arabic_language": {
-                "formative_exam": "غ",
+                "formative_exam": "30",
                 "academic_level": "F",
                 "participation": "غير نشط  Inactive",
                 "doing_tasks": "لا ينجز Incomplete",
@@ -9175,8 +9175,8 @@
                 "attending_books": "Partially interested  مهتم جزئيًّا"
             },
             "arabic_language": {
-                "formative_exam": "45",
-                "academic_level": "F",
+                "formative_exam": "68",
+                "academic_level": "D",
                 "participation": "غير نشط  Inactive",
                 "doing_tasks": "متأخرًا late",
                 "attending_books": "Partially interested  مهتم جزئيًّا"
@@ -9861,7 +9861,7 @@
                 "attending_books": "interested  مهتم"
             },
             "arabic_language": {
-                "formative_exam": "74l100",
+                "formative_exam": "75",
                 "academic_level": "C",
                 "participation": "نشط جزئيًا  Partially",
                 "doing_tasks": "متأخرًا late",
@@ -9910,7 +9910,7 @@
                 "attending_books": "Partially interested  مهتم جزئيًّا"
             },
             "arabic_language": {
-                "formative_exam": "50l100",
+                "formative_exam": "60",
                 "academic_level": "D",
                 "participation": "نشط جزئيًا  Partially",
                 "doing_tasks": "في الموعد  on time",
@@ -9959,7 +9959,7 @@
                 "attending_books": "interested  مهتم"
             },
             "arabic_language": {
-                "formative_exam": "90l100",
+                "formative_exam": "89",
                 "academic_level": "A",
                 "participation": "نشط  Active",
                 "doing_tasks": "في الموعد  on time",
@@ -10008,7 +10008,7 @@
                 "attending_books": "interested  مهتم"
             },
             "arabic_language": {
-                "formative_exam": "60l100",
+                "formative_exam": "70",
                 "academic_level": "D",
                 "participation": "نشط جزئيًا  Partially",
                 "doing_tasks": "في الموعد  on time",
@@ -10057,7 +10057,7 @@
                 "attending_books": "Partially interested  مهتم جزئيًّا"
             },
             "arabic_language": {
-                "formative_exam": "70l100",
+                "formative_exam": "70",
                 "academic_level": "C",
                 "participation": "غير نشط  Inactive",
                 "doing_tasks": "متأخرًا late",
@@ -10253,7 +10253,7 @@
                 "attending_books": "interested  مهتم"
             },
             "arabic_language": {
-                "formative_exam": "ع",
+                "formative_exam": "40",
                 "academic_level": "F",
                 "participation": "غير نشط  Inactive",
                 "doing_tasks": "لا ينجز Incomplete",
